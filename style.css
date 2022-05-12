@@ -1,0 +1,21 @@
+
+.form {
+background-color: #ffffff5b;
+-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+box-shadow: 0 0 20px rgb(0, 0, 0);
+padding: 20px;
+padding-bottom: 20px;
+border-radius: 8px;
+}
+
+.container {
+margin-top: 150px;
+}
+
+.mb-3 {
+padding: 10px;
+}
+
+.mb-4 {
+    padding: 10px;
+    }    
